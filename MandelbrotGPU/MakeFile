@@ -1,0 +1,1 @@
+g++ -g --std=c++17 -IC:\OpenGL_BP\include\glad -IC:\OpenGL_BP\include\GLFW -IC:\OpenGL_BP\include\MyFunctions -LC:\OpenGL_BP\lib C:\OpenGL_BP\src\*.cpp C:\OpenGL_BP\src\glad.c -lglfw3dll -o C:\OpenGL_BP\main
